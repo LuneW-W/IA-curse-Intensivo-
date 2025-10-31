@@ -11,9 +11,10 @@
     "git add ." | para guardar los cambios
     "git commit -m "IA curse Intensivo"" | se copia en el equipo
     "git push -u origin master" | Actualiza el main repositorio
-    "git push" | subir nuevo archivo a la nube
+    "git push" | subirlo a la nube
     "git clone" "repositorio""|para clonar el repositorio 
     "git remote -v" | nube donde esta guardada
+    git pull | traer los archivos de la nube
 
 git status |
  panel de control/usuario/administrador de credenciales/ credenciales de windows | registrar la cuenta de git en el dipocitivo
