@@ -9,9 +9,9 @@
     para hacer  el repositorio
     "git init" |para inicializar el repositorio
     "git add ." | para guardar los cambios
-    "git commit -m "IA curse Intensivo"" | se copia en el equipo
+   paso 1subur a la nube "git commit -m "IA curse Intensivo"" | se copia en el equipo
     "git push -u origin master" | Actualiza el main repositorio
-    "git push" | subirlo a la nube
+   paso 2 subir a la nuve "git push" | subirlo a la nube
     "git clone" "repositorio""|para clonar el repositorio 
     "git remote -v" | nube donde esta guardada
     git pull | traer los archivos de la nube
