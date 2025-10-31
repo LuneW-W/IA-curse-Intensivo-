@@ -2,6 +2,9 @@
 arriba a la derecha aparece una lupa | ver preview del archivo(visual studio code)
 
 editor de texto = visual studio code
+
+
+
 # Extenciones
 
 <Markdown All in One | Extencion para mejor manejo(nuevos comandos)>
