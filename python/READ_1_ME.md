@@ -3,7 +3,7 @@ arriba a la derecha aparece una lupa | ver preview del archivo(visual studio cod
 
 editor de texto = visual studio code
 
-
+git clone https://github.com/fernandogh7508/IAG339 | repo profe
 
 # Extenciones
 
