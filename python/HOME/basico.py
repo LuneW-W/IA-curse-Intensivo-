@@ -33,5 +33,16 @@ mi_usuario=usuario(nombre_ing,nombre_ing,documento_ing)
 print(f"{mi_usuario.documento}")
 
 # condicionales
+edad1_usu= 12
+edad3_usu= 20
+edad2_usu= 36
 
-if
+edad_ing=int(input("ingrese edad usuario"))
+if edad_ing <= edad1_usu :
+    print("bienvenido usuario menor\n nivel de acceso limitado")
+elif edad_ing == edad3_usu :
+    print("bienvenido usuario tienes acceso normal al dispocitivo")
+elif edad_ing >= edad2_usu :
+    print("Usuario admin desbloquedado")
+else :
+    print("Usuario Bloqueado")
